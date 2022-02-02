@@ -1,4 +1,4 @@
-	         Volvox Software
+	         **Volvox Software
 Инструкция пользователя / Instruction for users
 
 -RU-
